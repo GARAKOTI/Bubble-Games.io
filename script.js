@@ -1,7 +1,6 @@
-var timer = 10;
+var timer = 60;
 var score = 0;
 var hitvalue =0;
-console.log(hitvalue);
 function bubbleMaker() {
   var bubble = "";
   for (var i = 0; i < 105; i++) {
